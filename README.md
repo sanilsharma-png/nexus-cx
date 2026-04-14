@@ -137,8 +137,8 @@ nexus-cx/
 
 ## Author
 
-**Govind** — GTM & Intelligence Operator  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourdomain.com)
+**Sanil** — GTM & Intelligence Operator  
+[LinkedIn](https://linkedin.com/in/sanilsharma8) · [Portfolio](https://yourdomain.com)
 
 ---
 
